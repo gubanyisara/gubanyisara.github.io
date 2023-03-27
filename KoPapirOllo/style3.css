@@ -17,7 +17,7 @@ header {
 body {
     /*margin-top: 2rem;*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: url("KoPapirOllo/RockPaperScissors_background.jpg") repeat center;
+    background: url("/KoPapirOllo/RockPaperScissors_background.jpg") repeat center;
     color:black;
     font-weight: bold;
     /*background-color: black;
@@ -84,7 +84,7 @@ body {
     width: 125px;
     height: 125px;
     border-radius: 10px;
-    background: url("KoPapirOllo/ko_phos.jpg") center;
+    background: url("/KoPapirOllo/ko_phos.jpg") center;
     outline: none;
     border: 2px solid green;
     cursor: pointer;
@@ -98,7 +98,7 @@ body {
     width: 125px;
     height: 125px;
     border-radius: 10px;
-    background: url("KoPapirOllo/Papir_daru.jpg") center;
+    background: url("/KoPapirOllo/Papir_daru.jpg") center;
     outline: none;
     border: 2px solid lightskyblue;
     cursor: pointer;
@@ -113,7 +113,7 @@ body {
     width: 125px;
     height: 125px;
     border-radius: 10px;
-    background: url("KoPapirOllo/ollo.jpg") center;
+    background: url("/KoPapirOllo/ollo.jpg") center;
     outline: none;
     border: 2px solid gray;
     cursor: pointer;
