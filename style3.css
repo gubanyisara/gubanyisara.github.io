@@ -18,10 +18,10 @@ body {
     /*margin-top: 2rem;*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: url("https://user-images.githubusercontent.com/79767747/228055628-009d4e45-396b-4563-9d3a-f12d2cadf943.jpg") repeat center;
-    background-color: black;
     color:black;
     font-weight: bold;
-    /*background-size: cover;
+    /*background-color: black;
+    background-size: cover;
     position:sticky;*/
 }
 
